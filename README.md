@@ -16,18 +16,18 @@ Welcome to the PyGame repository! This project is a collection of Python games d
 
 To get started with this project, you need to have Python installed on your machine. Follow the steps below to set up the environment:
 
-### Clone the repository:
+### - Clone the repository:
 
 git clone https://github.com/kunal-1207/PyGame.git
 
 cd PyGame
 
-### Create a virtual environment (optional but recommended):
+### - Create a virtual environment (optional but recommended):
 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-### Install the required dependencies:
+### - Install the required dependencies:
 
 pip install -r requirements.txt
 
